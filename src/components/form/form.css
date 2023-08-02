@@ -1,0 +1,9 @@
+.form {
+    background-color: bisque;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px rgb(0.5, 0, 0);
+}
